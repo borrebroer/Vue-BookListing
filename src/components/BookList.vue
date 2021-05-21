@@ -13,4 +13,11 @@ export default {
     }
 };
 </script>
-<style></style>
+<style>
+h1 {
+    font-weight: 'normal'
+}
+h2 {
+    font-weight: 'normal'
+}
+</style>
